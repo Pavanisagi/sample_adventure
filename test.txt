@@ -1,1 +1,2 @@
-hello from main
+Hello from both branches
+
